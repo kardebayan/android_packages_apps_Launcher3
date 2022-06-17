@@ -2357,4 +2357,10 @@
     <icon
         drawable="@drawable/themed_icon_tinkoff"
         package="ru.tinkoff.sme" />
+    <icon 
+        drawable="@drawable/themed_icon_gaana"
+        package="com.gaana" />
+    <icon
+        drawable="@drawable/themed_icon_phub"
+        package="com.app.pornhub" />
 </icons>
